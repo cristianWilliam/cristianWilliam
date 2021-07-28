@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!! Meu nome é Cristian William</h1>
-<h3 align="center">Desenvolvedor que ama um código bem feito que compila!! 👊👊</h3>
+<h3 align="center">Um Dev que ama um código bem feito que compila!! 👊👊</h3>
 <br />
 
 - 🌱 Sempre aprendendo mais sobre **.Net Framework e JS**
